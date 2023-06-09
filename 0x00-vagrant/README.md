@@ -1,0 +1,3 @@
+# Hello Ubuntu
+
+* uname command 
